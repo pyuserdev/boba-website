@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Favorite Hobby</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>My Favorite Hobby</h1>
+    <p>Not a pastime. A personal escape.</p>
+  </header>
+
+  <section class="about">
+    <h2>What This Hobby Means to Me</h2>
+    <p>
+      This hobby is where I disconnect from noise and reconnect with myself.
+      It teaches patience, focus, and consistency. I don’t do it for validation —
+      I do it because it sharpens who I am becoming.
+    </p>
+    <p>
+      Some days I’m bad at it. Some days I’m obsessed. Either way, I show up.
+    </p>
+  </section>
+
+  <section class="gallery">
+    <h2>Moments & Environment</h2>
+    <div class="images">
+      <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97" alt="Hobby image">
+      <img src="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee" alt="Hobby image">
+      <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7" alt="Hobby image">
+    </div>
+  </section>
+
+  <section class="details">
+    <h2>Why I Keep Doing It</h2>
+    <ul>
+      <li>It clears my mind when everything feels cluttered</li>
+      <li>It rewards effort, not shortcuts</li>
+      <li>It helps me improve quietly, without announcements</li>
+      <li>It gives me control over at least one part of my day</li>
+    </ul>
+  </section>
+
+  <section class="quote">
+    <blockquote>
+      “Some hobbies don’t entertain you — they rebuild you.”
+    </blockquote>
+  </section>
+
+  <footer>
+    <p>© 2025 | Built with focus, not noise</p>
+  </footer>
+
+</body>
+</html>
